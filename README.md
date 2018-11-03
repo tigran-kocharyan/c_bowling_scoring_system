@@ -1,5 +1,5 @@
 # Bowling-Scoring-Project-on-C-language
-Hi there! This project was created by my team out of 3 people for counting all the score in bowling for more than just 1 person. This code interacts with players via console. It actually works with a huge number of players and follows all the rules of the game.
+Hi there! This project was created by my team out of 3 people for counting all the score in bowling for more than just 1 person. This code interacts with players via console. It actually works with a huge number of players and follows all the rules of the game:
 -If your score in one frame is more than 10, than it warns you via specific message on the screen and then asks to write your score again.
 -If you bowled a strike or a spare - it congratulates you and remember to add extra score.
 -The same thing is with spares.
