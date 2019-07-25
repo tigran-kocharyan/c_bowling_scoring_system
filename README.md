@@ -9,6 +9,6 @@ Hi there! This project was created by my team out of 3 people for counting all t
  
 ### -The 10th frame is the most interesting and the most complicated to predict. We took care of this feature and follow all the strikes/spares rules. 	
  
-### -Via console our project interacts with players and shows them __TOTAL SCORE OF THE GAME__ and the __WINNER__ between all the players.
+### -Via console our project interacts with players and shows them _TOTAL SCORE OF THE GAME_ and the _WINNER_ between all the players.
  
 ### -Eventually, this is one of the most readable and easy-to-understand codes. And moreover, we did not find any analogue on the Internet for C language. That's why, this code is unique C code.
