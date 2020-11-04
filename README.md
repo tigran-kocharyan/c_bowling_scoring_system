@@ -31,7 +31,7 @@
 
 * Feel free to use it 😉
 
-* **UPD**: some OOP features can be also added now 🙃)
+* Advise add OOP features in here when you use it 🙃
 ---
 
 ## [Contacts](https://vk.com/k_tigran)
