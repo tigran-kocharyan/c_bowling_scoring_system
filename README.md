@@ -3,7 +3,11 @@
 ---
 
 ## Description 
-* Score in bowling for more than just 1 person. This code interacts with players via console. It actually works with a huge number of players and follows all the rules of the game:
+* Perfectly works for several players. 
+
+* Interacts with players via console. 
+
+* Follows all the rules of the game.
 ---
 
 ## Rules
