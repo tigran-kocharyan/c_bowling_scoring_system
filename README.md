@@ -21,7 +21,7 @@
 ---
 
 ## Features
-* The program is one of the most readable and easy-to-understand codes.
+* Is readable and easy-to-understand.
 
 * No analogue on the Internet for C. Code is absolutely unique.
 ---
