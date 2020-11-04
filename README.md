@@ -22,7 +22,6 @@
 
 ## Features
 * The program is one of the most readable and easy-to-understand codes.
-(UPD: the text was written long time before me applying to Univ and studying OOP, so now I'm a little shocked that I thought like this 🙃)
 
 * No analogue on the Internet for C. Code is absolutely unique.
 ---
@@ -31,6 +30,8 @@
 * Star 🌟 this repo if you find it useful.
 
 * Feel free to use it 😉
+
+* **UPD**: some OOP features can be also added now 🙃)
 ---
 
 ## [Contacts](https://vk.com/k_tigran)
